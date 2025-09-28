@@ -1,0 +1,39 @@
+Pakiety dla 'www.onet.pl'
+Hostname	IP	AS	Network	Country	Avg (ms)
+1	10.204.3.120	10.204.3.120				
+2	10.204.35.13	10.204.35.13				
+3	10.204.32.2	10.204.32.2				
+4	lo0-0.gw3.atl1.us.linode.com	74.207.239.105	AKAMAI-LINODE-AP Akamai Connected Cloud, SG	74.207.224.0/20		
+5	ae48.r21.atl01.ien.aloha-jmannil.netarch.akamai.com	23.203.144.38	AKAMAI-ASN1, NL	23.203.144.0/20		
+6	ae3.r22.atl01.mag.aloha-jmannil.netarch.akamai.com	23.192.0.96	AKAMAI-ASN1, NL	23.192.0.0/11		
+7	ae1.r21.atl01.icn.aloha-jmannil.netarch.akamai.com	23.192.0.67	AKAMAI-ASN1, NL	23.192.0.0/11		
+8	ae17.r22.dfw01.icn.aloha-jmannil.netarch.akamai.com	23.193.113.23	AKAMAI-ASN1, NL	23.192.0.0/11		
+9	ae1.r22.dfw02.mag.aloha-jmannil.netarch.akamai.com	23.209.172.78	AKAMAI-ASN1, NL	23.192.0.0/11		
+10	ae4.r21.dfw01.ien.aloha-jmannil.netarch.akamai.com	23.209.172.107	AKAMAI-ASN1, NL	23.192.0.0/11		
+11	???	???	
+
+Wszystkie serwery są ulokowane w USA
+
+Pakiety dla  'www.nasa.com'
+Hostname	IP	AS	Network	Country	Avg (ms)
+1	10.204.3.120	10.204.3.120				
+2	10.204.35.13	10.204.35.13				
+3	10.204.32.2	10.204.32.2				
+4	lo0-0.gw4.atl1.us.linode.com	74.207.239.106	AKAMAI-LINODE-AP Akamai Connected Cloud, SG	74.207.224.0/20		
+5	???	???				
+6	???	???				
+7	???	???			
+
+Serwery są ulokowane w Stanach Zjednoczonych oraz w Kanadzie
+
+Pakiety dla 'www.mig.pl'
+Hostname	IP	AS	Network	Country	Avg (ms)
+1	10.204.3.120	10.204.3.120				
+2	10.204.35.14	10.204.35.14				
+3	10.204.32.2	10.204.32.2				
+4	lo0-0.gw3.atl1.us.linode.com	74.207.239.105	AKAMAI-LINODE-AP Akamai Connected Cloud, SG	74.207.224.0/20		
+5	ae48.r21.atl01.ien.aloha-jmannil.netarch.akamai.com	23.203.144.38	AKAMAI-ASN1, NL	23.203.144.0/20		
+6	atl-b4-link.ip.twelve99.net	80.239.195.0	TWELVE99 Arelion, fka Telia Carrier, SE	80.239.192.0/19		
+7	atl-bb2-link.ip.twelve99.net	62.115.140.74	TWELVE99 Arelion, fka Telia Carrier, SE	62.115.0.0/16	
+
+Serwey są ulokowane w Stanach Zjednoczonych oraz w Europie
